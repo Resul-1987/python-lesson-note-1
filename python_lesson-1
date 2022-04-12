@@ -1,0 +1,21 @@
+first_name = 'resul'
+last_name = 'bjk'
+out = 'hello ' + first_name +"  " + last_name
+print(out)
+
+bir = "resul  " 
+iki = "aksz     "    
+bb = "bjk"  
+out ="hello, {2} {1}{1} ".format(bir,iki,bb)
+print(out)    
+
+first = 6
+second = 10
+print(first + second)
+print(first**2)
+print(second/2)
+print(first**second)
+
+first = input("aaa:")
+second = input ("bbb:")
+print(int(first)+int(second))
