@@ -19,3 +19,11 @@ print(first**second)
 first = input("aaa:")
 second = input ("bbb:")
 print(int(first)+int(second))
+python libraries
+import numpy as np
+
+import matplotlib
+import matplotlib.pyplot as plt
+
+import warnings;
+warnings.filterwarnings('ignore')
